@@ -143,3 +143,21 @@ a:active {
     width: 200px;
     margin: 10px;
 }
+
+@media screen and (max-width: 980px) {
+    body {
+
+    }
+}
+
+@media screen and (max-width: 768px) {
+    body {
+
+    }
+}
+
+@media screen and (max-width: 640px) {
+    body {
+
+    }
+} 
